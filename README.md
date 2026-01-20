@@ -1,4 +1,4 @@
-📊 Advanced Customer Purchase & Market Research Analytics
+# 📊 Advanced Customer Purchase & Market Research Analytics
 📌 Project Overview
 
 This project delivers an end-to-end retail analytics solution focused on understanding customer purchase behavior, revenue patterns, and market research insights using MySQL and Power BI.
@@ -15,63 +15,13 @@ Customer retention and repeat purchase behavior
 
 This project is designed to reflect the skillset expected from a 2–3 years experienced Data Analyst.
 
-🗂 Dataset Description
-
-The dataset contains customer-level retail transaction data with the following attributes:
-
-Customer Demographics
-
-Age
-
-Gender
-
-Location
-
-Product Details
-
-Category
-
-Item
-
-Size
-
-Color
-
-Purchase Behavior
-
-Purchase Amount
-
-Purchase Frequency
-
-Previous Purchases
-
-Marketing Indicators
-
-Discount Applied
-
-Promo Code Used
-
-Operational Details
-
-Payment Method
-
-Shipping Type
-
-Customer Experience
-
-Review Rating
-
-Subscription Status
-
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 MySQL – Data storage, cleaning, transformation, and advanced SQL analysis
 
 Power BI – Data modeling, DAX calculations, and interactive dashboards
 
 SQL Concepts Used
-
-Joins
 
 Subqueries
 
@@ -89,7 +39,7 @@ Revenue optimization
 
 Market research analysis
 
-📈 Key KPIs & Metrics
+# 📈 Key KPIs & Metrics
 
 Total Revenue
 
@@ -107,7 +57,7 @@ Purchase Frequency Distribution
 
 Discount vs Non-Discount Revenue Impact
 
-📊 Power BI Dashboard Highlights
+# 📊 Power BI Dashboard Highlights
 
 Revenue by Category & Season
 
@@ -125,7 +75,7 @@ Heatmap: Category × Season Revenue
 
 Size & Shipping Type Impact Analysis
 
-🧮 SQL Analysis Performed
+# 🧮 SQL Analysis Performed
 
 Customer Segmentation: High / Medium / Low Value
 
